@@ -6,5 +6,5 @@
   </picture>
 </p>
 
-A TicTacToe game for terminals written in typescript on top of deno's APIs.
+A TicTacToe game for the terminal, written in typescript on top of deno's APIs.
 This an excuse to play around with deno, terminal escape sequences and approaches to turn based games.
